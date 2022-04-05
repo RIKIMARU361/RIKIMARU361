@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @RIKIMARU361
+- 👀 I’m interested in ...
+- Gitは初心者、1一人で使用して慣れてからチームで使用したい。
+- jquery javascriptを実務で使用しており趣味でPythonを使用したスクレイピングをやっている
+- Twitterのスクレイピングが趣味でも面白いので他の面白いプログラミングがあれば教えてください
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+RIKIMARU361/RIKIMARU361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
